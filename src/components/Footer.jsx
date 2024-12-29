@@ -11,7 +11,6 @@ const Footer = () => {
               اتو لوکس، پیشرو در ارائه خودروهای لوکس و اسپرت در ایران...
             </p>
           </div>
-
           <div className="col-lg-3 mb-4">
             <h5 className="text-danger mb-3">دسترسی سریع</h5>
             <ul className="list-unstyled">
